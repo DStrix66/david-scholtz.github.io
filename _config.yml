@@ -1,10 +1,11 @@
 title: "David Scholtz's Resumé & Portfolio"
+logo: /portfolio_images/profile-square.jpg
 description: >
   Welcome to my personal website and portfolio, where you can explore my journey as a data analyst.
 
-  On this site, you'll find a collection of my work, including data analysis projects, data visualisations, and reports that showcase my skills and expertise in the field.
+  On this site, you'll find a collection of my work, including projects in data analytics and BI, and data visualisations that showcase my skills and expertise in the field.
 
-  Feel free to browse through my projects, view my resumé, and get in touch with me to discuss potential collaborations or opportunities. I'm excited to share my journey with you!
+  Feel free to browse through my projects, view my resumé, and get in touch to discuss potential collaborations or opportunities. I'm excited to share my journey with you!
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
