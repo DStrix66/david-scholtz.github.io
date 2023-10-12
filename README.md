@@ -22,7 +22,7 @@ Policing resources are scarce, and deploying assets without intelligence can put
 
 These interactive dashboards provide critical information across a wide matrix of spatial and time-related properties. Decisionmakers on resource allocation have at their fingertips LAPD service call information from 2019 at the city, area, and reporting district levels. Precise time classes can be used to fine-grain intelligence by considering the year, month, time of day, and season. Service calls are also grouped by certain classes (e.g., violence, child-related, etc.), and the top 10 most common service calls are highlighted.
 
-See the Python code [here](): [link to code]
+See the Python code [here](https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb).
 
 ![lapd_dashboard1](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/lapd1.png)
 
