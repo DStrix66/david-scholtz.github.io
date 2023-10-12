@@ -4,38 +4,44 @@
 
 ## Education
 
+<details>
 <summary>**Google Advanced Data Analytics Professional Certificate** | Coursera | 13 September 2023</summary>
 
-This is what I did in the course.
+* This is what I did in the course.
 
 </details>
 
+<details>
 <summary>**PhD, Philosophy** | Uni. of Johannesburg | April 2021</summary>
 
-This is what I did in my PhD.
+* This is what I did in my PhD.
 
 </details>
 
+<details>
 <summary>**MA by dissertation, Philosophy** *cum laude* | Uni. of Johannesburg | DATE</summary>
 
-This is what I did in my MA.
+* This is what I did in my MA.
 
 </details>
 
+<details>
 <summary>**BA Honours, Philosophy** *cum laude* | Uni. of Johannesburg | DATE</summary>
 
-This is what I did in my Honours.
+* This is what I did in my Honours.
 
 </details>
 
+<details>
 <summary>**BA Politics, Philosophy, and Economics** | Uni. of Johannesburg | DATE</summary>
 
-This is what I did in my Bachelors.
+* This is what I did in my Bachelors.
 
 </details>
 
 ## Experience
 
+<details>
 <summary>**KPMG AU Data Analytics Job Simulation on Forage** | Sep 2023</summary>
 
 * Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
@@ -45,12 +51,14 @@ This is what I did in my Bachelors.
 
 </details>
 
+<details>
 <summary>**FTC Lecturer in Philosophy** | Various Universities | Jul 2023 to present</summary>
 
 * I taught stuff.
 
 </details>
 
+<details>
 <summary>**Doctoral Researcher** | Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
 
 * I researched stuff.
@@ -96,6 +104,7 @@ Typically, high user retention rates indicate satisfied users who repeatedly use
 
 This was a three-stage project, in which I was involved after the first stage. See the code for these stages [here](https://github.com/DStrix66/waze-user-churn.git).
 
+<details>
 <summary>**Project Outline**</summary>
 
 ### **Stage 1: Project proposal** (not involved)
@@ -127,6 +136,7 @@ This was a three-stage project, in which I was involved after the first stage. S
 
 </details>
 
+<details>
 <summary>**Findings**</summary>
 
 It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.
