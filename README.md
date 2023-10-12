@@ -10,7 +10,7 @@
 
 ## Student Performance in Ethics Course
 
-(Ongoing) *24 July 2023 –*
+*24 July 2023 – (Ongoing)*
 
 ---
 
@@ -28,6 +28,8 @@ See the Python code for data preparation [here](https://github.com/DStrix66/lapd
 
 ![lapd_dashboard2](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/lapd2.png)
 
+![lapd_dashboard1](/portfolio_images/lapd1.png)
+
 ---
 
 ## **Salifort Motors**: Customer Churn
@@ -38,7 +40,7 @@ See the Python code for data preparation [here](https://github.com/DStrix66/lapd
 
 ## **Waze**: User Churn Project
 
-*9 June to 1 September 2023**
+*9 June to 1 September 2023*
 
 Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map.
 Typically, high user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help prevent churn, improve user retention, and grow Waze’s business. The questions answered in this project were Who are the users most likely to churn? Why do users churn? and, When do users churn?
