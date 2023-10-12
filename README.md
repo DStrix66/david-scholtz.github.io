@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary><strong></strong>MA by dissertation, Philosophy</summary> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary>
+<summary><strong>MA by dissertation, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary>
 
 * This is what I did in my MA.
 
