@@ -24,11 +24,9 @@ These interactive dashboards provide critical information across a wide matrix o
 
 See the Python code for data preparation [here](https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb).
 
-![lapd_dashboard1](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/lapd1.png)
-
-![lapd_dashboard2](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/lapd2.png)
-
 ![lapd_dashboard1](/portfolio_images/lapd1.png)
+
+![lapd_dashboard2](/portfolio_images/lapd2.png)
 
 ---
 
@@ -51,9 +49,9 @@ This was a three-stage project, in which I was involved after the first stage. R
 
 It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.
 
-![waze_confusionmatrix](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/waze_gbm_cm.png)
+![waze_confusionmatrix](/portfolio_images/waze_gbm_cm.png)
 
-![waze_featureimportance](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/waze_gbm_feature_importance.png)
+![waze_featureimportance](/portfolio_images/waze_gbm_feature_importance.png)
 
 ---
 
@@ -73,6 +71,6 @@ Employee absenteeism can have a significant impact on a company's productivity, 
 
 See the code [here](www.link.com). 
 
-![absenteeismdashboard](https://github.com/DStrix66/david-scholtz.github.io/blob/main/portfolio_images/absenteeism.png)
+![absenteeismdashboard](/portfolio_images/absenteeism.png)
 
 ---
