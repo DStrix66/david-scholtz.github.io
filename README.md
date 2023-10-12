@@ -5,35 +5,35 @@
 ## Education
 
 <details>
-<summary>**Google Advanced Data Analytics Professional Certificate** | Coursera | 13 September 2023</summary>
+<summary><strong>Google Advanced Data Analytics Professional Certificate</strong> | Coursera | 13 September 2023</summary>
 
 * This is what I did in the course.
 
 </details>
 
 <details>
-<summary>**PhD, Philosophy** | Uni. of Johannesburg | April 2021</summary>
+<summary><strong>PhD, Philosophy</strong> | Uni. of Johannesburg | April 2021</summary>
 
 * This is what I did in my PhD.
 
 </details>
 
 <details>
-<summary>**MA by dissertation, Philosophy** *cum laude* | Uni. of Johannesburg | DATE</summary>
+<summary><strong></strong>MA by dissertation, Philosophy</summary> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary>
 
 * This is what I did in my MA.
 
 </details>
 
 <details>
-<summary>**BA Honours, Philosophy** *cum laude* | Uni. of Johannesburg | DATE</summary>
+<summary><strong>BA Honours, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary>
 
 * This is what I did in my Honours.
 
 </details>
 
 <details>
-<summary>**BA Politics, Philosophy, and Economics** | Uni. of Johannesburg | DATE</summary>
+<summary><strong>BA Politics, Philosophy, and Economics</strong> | Uni. of Johannesburg | DATE</summary>
 
 * This is what I did in my Bachelors.
 
@@ -42,7 +42,7 @@
 ## Experience
 
 <details>
-<summary>**KPMG AU Data Analytics Job Simulation on Forage** | Sep 2023</summary>
+<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong> | Sep 2023</summary>
 
 * Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 * Assessed data quality and completeness in preparation for analysis
@@ -52,14 +52,14 @@
 </details>
 
 <details>
-<summary>**FTC Lecturer in Philosophy** | Various Universities | Jul 2023 to present</summary>
+<summary><strong>FTC Lecturer in Philosophy</strong> | Various Universities | Jul 2023 to present</summary>
 
 * I taught stuff.
 
 </details>
 
 <details>
-<summary>**Doctoral Researcher** | Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
+<summary><strong>Doctoral Researcher</strong> | Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
 
 * I researched stuff.
 
@@ -105,30 +105,31 @@ Typically, high user retention rates indicate satisfied users who repeatedly use
 This was a three-stage project, in which I was involved after the first stage. See the code for these stages [here](https://github.com/DStrix66/waze-user-churn.git).
 
 <details>
-<summary>**Project Outline**</summary>
+<summary><strong>Project Outline</strong></summary>
 
-### **Stage 1: Project proposal** (not involved)
+<h3><strong>Stage 1: Project proposal</strong> (not involved)</h3>
 
 1. Data was imported and explored for useful user churn information
 2. A project proposal was accepted by Waze for an in-depth EDA (stage 2), statistical testing (stage 3), and predictive modelling (stages 4 & 5)
 
-### **Stage 2: EDA** (9-12 June 2023)
+<h3><strong>Stage 2: EDA</strong> (9-12 June 2023)</h3>
 
 1. Churn rate is highest for users who didn’t drive using the app much in the last month 
 2. Device types had similar churn rates
 3. Key conclusion: Statistical tests need to be run on variable classes (e.g., device used) to determine significant relationships with churn
 
-### **Stage 3: Two-sample hypothesis test** (24-28 June 2023)
+<h3><strong>Stage 3: Two-sample hypothesis test</strong> (24-28 June 2023)</h3>
 
 1. Calculations show that iPhone users have a higher average use of the app compared to Android users
 2. However, this difference is not statistically significant
 3. Key conclusion: More marketing-relevant data is needed for statistically examining churn by device use and other variables.
 
-### **Stage 4:Logistic regression analysis** (17-20 July 2023)
+<h3><strong>Stage 4:Logistic regression analysis</strong> (17-20 July 2023)</h3>
+
 1. Ran a binomial logistic regression with slightly better than benchmark precision but very low recall
 2. Contrary to what was expected from EDA findings, the amount of driving was the second-least-important variable for predicting churn
 
-### **Stage 5: Predictive classification models** (28 August to 1 September 2023)
+<h3><strong>Stage 5: Predictive classification models</strong> (28 August to 1 September 2023)</h3>
 
 1. Features of interest were extracted, and a random forest model and a GBM model on predicting user churn were developed and performances compared
 2. The GBM outperformed the random forest model, and it had similar levels of precision and accuracy to the logistic regression, with a much better (though still unsatisfactory) recall score
@@ -137,7 +138,7 @@ This was a three-stage project, in which I was involved after the first stage. S
 </details>
 
 <details>
-<summary>**Findings**</summary>
+<summary><strong>Findings</strong></summary>
 
 It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.
 
