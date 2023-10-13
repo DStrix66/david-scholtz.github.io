@@ -69,7 +69,7 @@ I have a background in academic Philosophy research and lecturing, giving me fou
 </details>
 
 <p><details>
-<summary><strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present</summary></p>
+<summary><strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present</summary>
 
 <p><ul>
    <li>I taught stuff.</li>
@@ -78,7 +78,7 @@ I have a background in academic Philosophy research and lecturing, giving me fou
 </details>
 
 <p><details>
-<summary><strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021</summary></p>
+<summary><strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
 
 <p><ul>
    <li>I researched stuff.</li>
