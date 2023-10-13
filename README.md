@@ -4,64 +4,81 @@
 
 ## Education
 
-<details>
-<summary><strong>Google Advanced Data Analytics Professional Certificate</strong> | Coursera | 13 September 2023</summary>
+<p><details>
+<summary><strong>Google Advanced Data Analytics Professional Certificate</strong> | Coursera | 13 September 2023</summary></p>
 
-* This is what I did in the course.
-
-</details>
-
-<details>
-<summary><strong>PhD, Philosophy</strong> | Uni. of Johannesburg | April 2021</summary>
-
-* This is what I did in my PhD.
+ <p><ul>
+   <li>This is what I did in the course.</li>
+   <li>And then I did this.</li>
+</ul></p>
 
 </details>
 
-<details>
-<summary><strong>MA by dissertation, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary>
+<p><details>
+<summary><strong>PhD, Philosophy</strong> | Uni. of Johannesburg | April 2021</summary></p>
 
-* This is what I did in my MA.
-
-</details>
-
-<details>
-<summary><strong>BA Honours, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary>
-
-* This is what I did in my Honours.
+<p><ul>
+  <li>This is what I did in my PhD.</li>
+</ul></p>
 
 </details>
 
-<details>
-<summary><strong>BA Politics, Philosophy, and Economics</strong> | Uni. of Johannesburg | DATE</summary>
+<p><details>
+<summary><strong>MA by dissertation, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary></p>
 
-* This is what I did in my Bachelors.
+<p><ul>
+   <li>This is what I did in my MA.</li>
+</ul></p>
+
+</details>
+
+<p><details>
+<summary><strong>BA Honours, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary></p>
+
+<p><ul>
+   <li>This is what I did in my Honours.</li>
+</ul></p>
+
+</details>
+
+<p><details>
+<summary><strong>BA Politics, Philosophy, and Economics</strong> | Uni. of Johannesburg | DATE</summary></p>
+
+<p><ul>
+   <li>This is what I did in my Bachelors.</li>
+</ul></p>
 
 </details>
 
 ## Experience
 
-<details>
-<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong> | Sep 2023</summary>
+<p><details>
+<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong> | Sep 2023</summary></p>
 
-* Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
-* Assessed data quality and completeness in preparation for analysis
-* Analysed data to target high-value customers based on demographics and attributes
-* Developed dashboards to communicate findings with visuals
-
-</details>
-
-<details>
-<summary><strong>FTC Lecturer in Philosophy</strong> | Various Universities | Jul 2023 to present</summary>
-
-* I taught stuff.
+<p><ul>
+   <li>Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team</li>
+   <li>Assessed data quality and completeness in preparation for analysis</li>
+   <li>Analysed data to target high-value customers based on demographics and attributes</li>
+   <li>Developed dashboards to communicate findings with visuals</li>
+</ul></p>
 
 </details>
 
-<details>
-<summary><strong>Doctoral Researcher</strong> | Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
+<p><details>
+<summary><strong>FTC Lecturer in Philosophy</strong> | Various Universities | Jul 2023 to present</summary></p>
 
-* I researched stuff.
+<p><ul>
+   <li>I taught stuff.</li>
+</ul></p>
+
+</details>
+
+<p><details>
+<summary><strong>Doctoral Researcher</strong> | Uni. of Johannesburg | Feb 2018 to Mar 2021</summary></p>
+
+<p><ul>
+   <li>I researched stuff.</li>
+</ul></p>
 
 </details>
 
