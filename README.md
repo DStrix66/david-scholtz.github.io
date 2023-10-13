@@ -2,10 +2,14 @@
 
 # About Me
 
+I'm a freelance data analyst with experience using statistics, Python, interactive dashboards, and machine learning algorithms to solve business problems. Technical skills are freely available to learn &ndash; my unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible to end users.
+
+I have a background in academic Philosophy research and lecturing, giving me foundational skills in critical thinking, stakeholder communication, and complex problem solving. If you don't want to talk data, I'm always down to chat about rationality and epistemology.
+
 ## Education
 
 <p><details>
-<summary><strong>Google Advanced Data Analytics Professional Certificate</strong> | Coursera | 13 September 2023</summary></p>
+<summary><strong>Google Advanced Data Analytics Professional Certificate</strong><br/>Coursera | 13 September 2023</summary></p>
 
  <p><ul>
    <li>This is what I did in the course.</li>
@@ -15,7 +19,7 @@
 </details>
 
 <p><details>
-<summary><strong>PhD, Philosophy</strong> | Uni. of Johannesburg | April 2021</summary></p>
+<summary><strong>PhD, Philosophy</strong><br/>Uni. of Johannesburg | April 2021</summary></p>
 
 <p><ul>
   <li>This is what I did in my PhD.</li>
@@ -24,7 +28,7 @@
 </details>
 
 <p><details>
-<summary><strong>MA by dissertation, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary></p>
+<summary><strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary></p>
 
 <p><ul>
    <li>This is what I did in my MA.</li>
@@ -33,7 +37,7 @@
 </details>
 
 <p><details>
-<summary><strong>BA Honours, Philosophy</strong> <em>cum laude</em> | Uni. of Johannesburg | DATE</summary></p>
+<summary><strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary></p>
 
 <p><ul>
    <li>This is what I did in my Honours.</li>
@@ -42,7 +46,7 @@
 </details>
 
 <p><details>
-<summary><strong>BA Politics, Philosophy, and Economics</strong> | Uni. of Johannesburg | DATE</summary></p>
+<summary><strong>BA Politics, Philosophy, and Economics</strong><br/>Uni. of Johannesburg | DATE</summary></p>
 
 <p><ul>
    <li>This is what I did in my Bachelors.</li>
@@ -53,7 +57,7 @@
 ## Experience
 
 <p><details>
-<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong> | Sep 2023</summary></p>
+<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong><br/>KPMB | Sep 2023</summary></p>
 
 <p><ul>
    <li>Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team</li>
@@ -65,7 +69,7 @@
 </details>
 
 <p><details>
-<summary><strong>FTC Lecturer in Philosophy</strong> | Various Universities | Jul 2023 to present</summary></p>
+<summary><strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present</summary></p>
 
 <p><ul>
    <li>I taught stuff.</li>
@@ -74,7 +78,7 @@
 </details>
 
 <p><details>
-<summary><strong>Doctoral Researcher</strong> | Uni. of Johannesburg | Feb 2018 to Mar 2021</summary></p>
+<summary><strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021</summary></p>
 
 <p><ul>
    <li>I researched stuff.</li>
