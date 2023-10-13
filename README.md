@@ -45,44 +45,44 @@ I have a background in academic Philosophy research and lecturing, giving me fou
 
 </details>
 
-<p><details>
-<summary><strong>BA Politics, Philosophy, and Economics</strong><br/>Uni. of Johannesburg | DATE</summary></p>
+<details>
+<summary><strong>BA Politics, Philosophy, and Economics</strong><br/>Uni. of Johannesburg | DATE</summary>
 
-<p><ul>
+<ul>
    <li>This is what I did in my Bachelors.</li>
-</ul></p>
+</ul>
 
 </details>
 
 ## Experience
 
-<p><details>
-<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong><br/>KPMB | Sep 2023</summary></p>
+<details>
+<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong><br/>KPMB | Sep 2023</summary>
 
-<p><ul>
+<ul>
    <li>Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team</li>
    <li>Assessed data quality and completeness in preparation for analysis</li>
    <li>Analysed data to target high-value customers based on demographics and attributes</li>
    <li>Developed dashboards to communicate findings with visuals</li>
-</ul></p>
+</ul>
 
 </details>
 
-<p><details>
+<details>
 <summary><strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present</summary>
 
-<p><ul>
+<ul>
    <li>I taught stuff.</li>
-</ul></p>
+</ul>
 
 </details>
 
-<p><details>
+<details>
 <summary><strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
 
-<p><ul>
+<ul>
    <li>I researched stuff.</li>
-</ul></p>
+</ul>
 
 </details>
 
