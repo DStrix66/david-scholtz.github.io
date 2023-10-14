@@ -14,8 +14,9 @@ summary {
 }
 </style>
 
-<details class="details">
-   <summary><strong>Google Advanced Data Analytics Professional Certificate</strong> | Coursera | 13 September 2023
+<details>
+   <summary>
+      <strong>Google Advanced Data Analytics Professional Certificate</strong> <br/>Coursera | 13 September 2023
    </summary>
 
    <ul>
@@ -24,41 +25,42 @@ summary {
    </ul>
 </details>
 
-<p><details>
-<summary><strong>PhD, Philosophy</strong><br/>Uni. of Johannesburg | April 2021</summary></p>
+<details>
+   <summary>
+      <strong>PhD, Philosophy</strong><br/>Uni. of Johannesburg | April 2021
+   </summary>
 
-<p><ul>
-  <li>This is what I did in my PhD.</li>
-</ul></p>
-
-</details>
-
-<p><details>
-<summary><strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary></p>
-
-<p><ul>
-   <li>This is what I did in my MA.</li>
-</ul></p>
-
+   <ul>
+      <li>This is what I did in my PhD.</li>
+   </ul>
 </details>
 
 <details>
-   <summary><strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary>
+  <summary><strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary></p>
+
+  <ul>
+    <li>This is what I did in my MA.</li>
+  </ul>
+</details>
+
+<details>
+   <summary>
+     <strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE
+   </summary>
 
    <ul>
       <li>This is what I did in my Honours.</li>
    </ul>
 </details>
 
-</details>
-
 <details>
-<summary><strong>BA Politics, Philosophy, and Economics</strong><br/>Uni. of Johannesburg | DATE</summary>
+  <summary>
+    <strong>BA Politics, Philosophy, and Economics</strong><br/>Uni. of Johannesburg | DATE
+  </summary>
 
-<ul>
-   <li>This is what I did in my Bachelors.</li>
-</ul>
-
+  <ul>
+    <li>This is what I did in my Bachelors.</li>
+  </ul>
 </details>
 
 ## Experience
