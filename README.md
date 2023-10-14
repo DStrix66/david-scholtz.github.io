@@ -1,4 +1,4 @@
-<h1>**UNDER CONSTRUCTION**</h1>
+<h1><strong>UNDER CONSTRUCTION</strong></h1>
 
 <h1>About Me</h1>
 
