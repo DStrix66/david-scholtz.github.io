@@ -36,7 +36,9 @@ summary {
 </details>
 
 <details>
-  <summary><strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary></p>
+  <summary>
+    <strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE
+  </summary>
 
   <ul>
     <li>This is what I did in my MA.</li>
