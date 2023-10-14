@@ -12,6 +12,8 @@
 summary {
     margin-bottom: 3px;
 }
+ul {margin-bottom: 3px;
+   }
 </style>
 
 <details>
