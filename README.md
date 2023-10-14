@@ -8,8 +8,14 @@
 
 ## Education
 
-<details>
-   <summary><strong>Google Advanced Data Analytics Professional Certificate</strong><br/>Coursera | 13 September 2023
+<style>
+summary {
+    margin-bottom: 8px;
+}
+</style>
+
+<details class="details">
+   <summary><strong>Google Advanced Data Analytics Professional Certificate</strong> | Coursera | 13 September 2023
    </summary>
 
    <ul>
