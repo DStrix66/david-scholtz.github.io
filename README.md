@@ -1,16 +1,16 @@
-# **UNDER CONSTRUCTION**
+<h1>**UNDER CONSTRUCTION**</h1>
 
-# About Me
+<h1>About Me</h1>
 
 <p>I'm a freelance data analyst with experience using statistics, Python, interactive dashboards, and machine learning algorithms to solve business problems. Technical skills are freely available to learn &ndash; my unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible to end users.</p>
 
 <p>I have a background in academic Philosophy research and lecturing, giving me foundational skills in critical thinking, stakeholder communication, and complex problem solving. If you don't want to talk data, I'm always down to chat about rationality and epistemology.</p>
 
-## Education
+<h2>Education</h2>
 
 <style>
 summary {
-    margin-bottom: 8px;
+    margin-bottom: 3px;
 }
 </style>
 
@@ -65,7 +65,7 @@ summary {
   </ul>
 </details>
 
-## Experience
+<h2>Experience</h2>
 
 <details>
   <summary>
@@ -100,15 +100,15 @@ summary {
    </ul>
 </details>
 
-# Portfolio
+<h1>Portfolio</h1>
 
-## Student Performance in Ethics Course
+<h2>Student Performance in Ethics Course</h2>
 
 _24 July 2023 – (Ongoing)_
 
 ---
 
-## **LAPD**: Service Call Intelligence Dashboard
+<h2><strong>LAPD</strong>: Service Call Intelligence Dashboard</h2>
 
 _27 September to 6 October 2023_
 
@@ -124,13 +124,13 @@ See the Python code for data preparation [here](https://github.com/DStrix66/lapd
 
 ---
 
-## **Salifort Motors**: Customer Churn
+<h2><strong>Salifort Motors</strong>: Customer Churn</h2>
 
 _2-13 September 2023_
 
 ---
 
-## **Waze**: User Churn Project
+<h2><strong>Waze</strong>: User Churn Project</h2>
 
 _9 June to 1 September 2023_
 
@@ -185,7 +185,7 @@ It was established that the data is insufficient for reliably predicting user ch
 
 ---
 
-## **Workplace Absenteeism**
+<h2><strong>Workplace Absenteeism</strong></h2>
 
 _24 April – 3 May 2023_
 
