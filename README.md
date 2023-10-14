@@ -8,17 +8,14 @@
 
 ## Education
 
-<p>
-   <details>
-      <summary><strong>Google Advanced Data Analytics Professional Certificate</strong><br/>Coursera | 13 September 2023
-      </summary>
-      </p>
+<details>
+   <summary><strong>Google Advanced Data Analytics Professional Certificate</strong><br/>Coursera | 13 September 2023
+   </summary>
 
-   <p><ul>
+   <ul>
       <li>This is what I did in the course.</li>
       <li>And then I did this.</li>
-   </ul></p>
-
+   </ul>
 </details>
 
 <p><details>
@@ -42,11 +39,9 @@
 <details>
    <summary><strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary>
 
-   <p>
-      <ul>
-         <li>This is what I did in my Honours.</li>
-      </ul>
-   </p>
+   <ul>
+      <li>This is what I did in my Honours.</li>
+   </ul>
 </details>
 
 </details>
