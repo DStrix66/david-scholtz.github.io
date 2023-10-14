@@ -68,33 +68,36 @@ summary {
 ## Experience
 
 <details>
-<summary><strong>KPMG AU Data Analytics Job Simulation on Forage</strong><br/>KPMB | Sep 2023</summary>
+  <summary>
+    <strong>KPMG AU Data Analytics Job Simulation on Forage</strong><br/>KPMB | Sep 2023
+  </summary>
 
-<ul>
-   <li>Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team</li>
-   <li>Assessed data quality and completeness in preparation for analysis</li>
-   <li>Analysed data to target high-value customers based on demographics and attributes</li>
-   <li>Developed dashboards to communicate findings with visuals</li>
-</ul>
-
+   <ul>
+      <li>Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team</li>
+      <li>Assessed data quality and completeness in preparation for analysis</li>
+      <li>Analysed data to target high-value customers based on demographics and attributes</li>
+      <li>Developed dashboards to communicate findings with visuals</li>
+   </ul>
 </details>
 
 <details>
-<summary><strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present</summary>
+  <summary>
+    <strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present
+   </summary>
 
-<ul>
-   <li>I taught stuff.</li>
-</ul>
-
+  <ul>
+    <li>I taught stuff.</li>
+  </ul>
 </details>
 
 <details>
-<summary><strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021</summary>
+  <summary>
+    <strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021
+  </summary>
 
-<ul>
-   <li>I researched stuff.</li>
-</ul>
-
+   <ul>
+      <li>I researched stuff.</li>
+   </ul>
 </details>
 
 # Portfolio
