@@ -10,9 +10,11 @@
 
 <style>
 summary {
+    margin-top: 3px;
     margin-bottom: 3px;
 }
-ul {margin-bottom: 3px;
+ul {margin-top: 6px:
+    margin-bottom: 3px;
    }
 </style>
 
@@ -114,11 +116,9 @@ _24 July 2023 – (Ongoing)_
 
 _27 September to 6 October 2023_
 
-Policing resources are scarce, and deploying assets without intelligence can put law enforcement officers and the public at risk. Awareness of trends in policing service needs – both where and when they are needed – is crucial for optimising safety, providing the public with policing services, and mitigating against officer burnout.
+Policing resources are scarce, and deploying assets without intelligence can put law enforcement officers and the public at risk. Awareness of policing needs is crucial for public safety and effective law enforcement. These interactive dashboards provide critical location and time-based information enable decisionmakers to allocate resources with precision.
 
-These interactive dashboards provide critical information across a wide matrix of spatial and time-related properties. Decisionmakers on resource allocation have at their fingertips LAPD service call information from 2019 at the city, area, and reporting district levels. Precise time classes can be used to fine-grain intelligence by considering the year, month, time of day, and season. Service calls are also grouped by certain classes (e.g., violence, child-related, etc.), and the top 10 most common service calls are highlighted.
-
-See the Python code for data preparation [here](https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb) and the interactive dashboard on Tableau Public [here](https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1).
+See the **Python code** for data preparation **[here](https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb)** and the **interactive dashboard on Tableau Public** **[here](https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1)**.
 
 ![lapd_dashboard1](/portfolio_images/lapd1.png)
 
@@ -139,7 +139,7 @@ _9 June to 1 September 2023_
 Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map.
 Typically, high user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help prevent churn, improve user retention, and grow Waze’s business. The questions answered in this project were Who are the users most likely to churn? Why do users churn? and, When do users churn?
 
-This was a three-stage project, in which I was involved after the first stage. See the code for these stages [here](https://github.com/DStrix66/waze-user-churn.git).
+This was a three-stage project, in which I was involved after the first stage. See the **Python code** for these stages **[here](https://github.com/DStrix66/waze-user-churn.git)**.
 
 <details>
 <summary><strong>Project Outline</strong></summary>
@@ -201,7 +201,7 @@ Employee absenteeism can have a significant impact on a company's productivity, 
   - driving improved health culture in the workplace (e.g., a workplace gym, canteen that serves balanced meals)
 - Employees staying further from work and with more children may be offered benefits like a tax-deductible company fuel card or a partial work-from-home accommodation
 
-See the code [here](www.link.com).
+See the **Python code** **[here](www.link.com)**.
 
 ![absenteeismdashboard](/portfolio_images/absenteeism.png)
 
