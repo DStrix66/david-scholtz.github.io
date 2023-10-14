@@ -2,19 +2,22 @@
 
 # About Me
 
-I'm a freelance data analyst with experience using statistics, Python, interactive dashboards, and machine learning algorithms to solve business problems. Technical skills are freely available to learn &ndash; my unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible to end users.
+<p>I'm a freelance data analyst with experience using statistics, Python, interactive dashboards, and machine learning algorithms to solve business problems. Technical skills are freely available to learn &ndash; my unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible to end users.</p>
 
-I have a background in academic Philosophy research and lecturing, giving me foundational skills in critical thinking, stakeholder communication, and complex problem solving. If you don't want to talk data, I'm always down to chat about rationality and epistemology.
+<p>I have a background in academic Philosophy research and lecturing, giving me foundational skills in critical thinking, stakeholder communication, and complex problem solving. If you don't want to talk data, I'm always down to chat about rationality and epistemology.</p>
 
 ## Education
 
-<p><details>
-<summary><strong>Google Advanced Data Analytics Professional Certificate</strong><br/>Coursera | 13 September 2023</summary></p>
+<p>
+   <details>
+      <summary><strong>Google Advanced Data Analytics Professional Certificate</strong><br/>Coursera | 13 September 2023
+      </summary>
+      </p>
 
- <p><ul>
-   <li>This is what I did in the course.</li>
-   <li>And then I did this.</li>
-</ul></p>
+   <p><ul>
+      <li>This is what I did in the course.</li>
+      <li>And then I did this.</li>
+   </ul></p>
 
 </details>
 
@@ -36,12 +39,15 @@ I have a background in academic Philosophy research and lecturing, giving me fou
 
 </details>
 
-<p><details>
-<summary><strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary></p>
+<details>
+   <summary><strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE</summary>
 
-<p><ul>
-   <li>This is what I did in my Honours.</li>
-</ul></p>
+   <p>
+      <ul>
+         <li>This is what I did in my Honours.</li>
+      </ul>
+   </p>
+</details>
 
 </details>
 
@@ -90,13 +96,13 @@ I have a background in academic Philosophy research and lecturing, giving me fou
 
 ## Student Performance in Ethics Course
 
-*24 July 2023 – (Ongoing)*
+_24 July 2023 – (Ongoing)_
 
 ---
 
 ## **LAPD**: Service Call Intelligence Dashboard
 
-*27 September to 6 October 2023*
+_27 September to 6 October 2023_
 
 Policing resources are scarce, and deploying assets without intelligence can put law enforcement officers and the public at risk. Awareness of trends in policing service needs – both where and when they are needed – is crucial for optimising safety, providing the public with policing services, and mitigating against officer burnout.
 
@@ -112,13 +118,13 @@ See the Python code for data preparation [here](https://github.com/DStrix66/lapd
 
 ## **Salifort Motors**: Customer Churn
 
-*2-13 September 2023*
+_2-13 September 2023_
 
 ---
 
 ## **Waze**: User Churn Project
 
-*9 June to 1 September 2023*
+_9 June to 1 September 2023_
 
 Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map.
 Typically, high user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help prevent churn, improve user retention, and grow Waze’s business. The questions answered in this project were Who are the users most likely to churn? Why do users churn? and, When do users churn?
@@ -135,7 +141,7 @@ This was a three-stage project, in which I was involved after the first stage. S
 
 <h3><strong>Stage 2: EDA</strong> (9-12 June 2023)</h3>
 
-1. Churn rate is highest for users who didn’t drive using the app much in the last month 
+1. Churn rate is highest for users who didn’t drive using the app much in the last month
 2. Device types had similar churn rates
 3. Key conclusion: Statistical tests need to be run on variable classes (e.g., device used) to determine significant relationships with churn
 
@@ -173,19 +179,19 @@ It was established that the data is insufficient for reliably predicting user ch
 
 ## **Workplace Absenteeism**
 
-*24 April – 3 May 2023*
+_24 April – 3 May 2023_
 
 Employee absenteeism can have a significant impact on a company's productivity, operational efficiency, and overall performance. By conducting a comprehensive analysis and developing a predictive model, this project provides support to Human Resources decision-making. The project provides valuable insights into employee absenteeism patterns and delivers actionable recommendations for businesses to optimise workforce management, enhance productivity, and improve employee satisfaction.
 
 **Key Findings and Recommendations**
 
-* Scheduled medical appointments tend not to result in excessive workplace absenteeism, whereas having unplanned medical needs is a strong predictor
-* HR is recommended to consider interventions to improve employee health and early medical need detection, e.g.:
-    * scheduling regular medical check-ups at company cost
-    * driving improved health culture in the workplace (e.g., a workplace gym, canteen that serves balanced meals)
-* Employees staying further from work and with more children may be offered benefits like a tax-deductible company fuel card or a partial work-from-home accommodation
+- Scheduled medical appointments tend not to result in excessive workplace absenteeism, whereas having unplanned medical needs is a strong predictor
+- HR is recommended to consider interventions to improve employee health and early medical need detection, e.g.:
+  - scheduling regular medical check-ups at company cost
+  - driving improved health culture in the workplace (e.g., a workplace gym, canteen that serves balanced meals)
+- Employees staying further from work and with more children may be offered benefits like a tax-deductible company fuel card or a partial work-from-home accommodation
 
-See the code [here](www.link.com). 
+See the code [here](www.link.com).
 
 ![absenteeismdashboard](/portfolio_images/absenteeism.png)
 
