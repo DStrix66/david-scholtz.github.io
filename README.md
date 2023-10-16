@@ -41,7 +41,8 @@ ol {margin-top: 3px;
    </summary>
 
    <ul>
-      <li>This is what I did in my PhD.</li>
+      <li>Developed and <strong><a href="https://hdl.handle.net/10210/477827" target="_blank">published a dissertation</a></strong> on a new theory of the normativity of rationality &ndash; examined and approved by global experts &ndash; by critically synthesising key theoretical elements of rational-coherentism and intellectual virtue.</li>
+      <li>Successfully motivated for over R450K in funding from research grants by effectively communicating the nature and purpose of my research project that is accessible and shows its relevance and impact.</li>
    </ul>
 </details>
 
@@ -51,7 +52,8 @@ ol {margin-top: 3px;
   </summary>
 
   <ul>
-    <li>This is what I did in my MA.</li>
+     <li>Achieved a first-degree grade (<em>cum laude</em>) for a research dissertation defending an epistemological interpretation of Immanuel Kant's doctrine of transcendental idealism.</li>
+     <li>Successfully motivated for over R96K in funding from research grants by effectively communicating the nature and purpose of my research project that is accessible and shows its relevance and impact.</li>
   </ul>
 </details>
 
@@ -61,7 +63,8 @@ ol {margin-top: 3px;
    </summary>
 
    <ul>
-      <li>This is what I did in my Honours.</li>
+      <li>Achieved a first-degree grade (<em>cum laude</em>) for an intensive Philosophy Honours programme covering themes in metaphysics & epistemology, philosophy of language, and postmodernism.</li>
+      <li>Achieved a distinction for my year-long mini-dissertaion on Paul Ricoeur's hermeneutic interpretation of Edmund Husserl's phenomenology.</li>
    </ul>
 </details>
 
