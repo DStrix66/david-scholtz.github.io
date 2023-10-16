@@ -16,7 +16,7 @@ summary {
 /*     margin-bottom: 3px; */
 }
 ul {margin-top: 3px;
-    margin-bottom: -3px;
+    margin-bottom: 3px;
     }
 </style>
 
