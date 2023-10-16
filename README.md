@@ -7,9 +7,9 @@
 <h2>Education</h2>
 
 <style>
-h1 {margin-top: 8px;
+h1 {margin-top: 15px;
    }
-h2 {margin-top: 6px;
+h2 {margin-top: 15px;
    }
 summary {
     margin-top: 3px;
