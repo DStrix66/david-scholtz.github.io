@@ -13,10 +13,10 @@ h2 {margin-top: 6px;
    }
 summary {
     margin-top: 3px;
-    margin-bottom: 3px;
+/*     margin-bottom: 3px; */
 }
 ul {margin-top: 6px:
-    margin-bottom: 3px;
+/*     margin-bottom: 3px; */
     }
 </style>
 
