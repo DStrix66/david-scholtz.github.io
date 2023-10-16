@@ -9,15 +9,15 @@
 <style>
 h1 {margin-top: 15px;
    }
-h2 {margin-top: 15px;
+h2 {margin-top: 13px;
    }
 summary {
     margin-top: 3px;
 /*     margin-bottom: 3px; */
 }
-ul {margin-top: 6px:
+/* ul {margin-top: 6px: */
 /*     margin-bottom: 3px; */
-    }
+/*     } */
 </style>
 
 <details>
