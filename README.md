@@ -2,20 +2,22 @@
 
 <h1>About Me</h1>
 
-<p>I'm a freelance data analyst with experience using statistics, Python, interactive dashboards, and machine learning algorithms to solve business problems. Technical skills are freely available to learn &ndash; my unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible to end users.</p>
-
-<p>I have a background in academic Philosophy research and lecturing, giving me foundational skills in critical thinking, stakeholder communication, and complex problem solving. If you don't want to talk data, I'm always down to chat about rationality and epistemology.</p>
+<p>I'm a freelance data analyst with experience using statistics, machine learning algorithms, and interactive dashboards to solve business problems. My unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible to end users. My background in research and lecturing has provided me with foundational skills in critical thinking, stakeholder communication, and complex problem solving.</p>
 
 <h2>Education</h2>
 
 <style>
+h1 {margin-top: 8px;
+   }
+h2 {margin-top: 6px;
+   }
 summary {
     margin-top: 3px;
     margin-bottom: 3px;
 }
 ul {margin-top: 6px:
     margin-bottom: 3px;
-   }
+    }
 </style>
 
 <details>
