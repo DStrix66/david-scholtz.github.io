@@ -4,9 +4,7 @@ h1 {margin-top: 15px;
 h2 {margin-top: 13px;
    }
 details details {
-   margin: 6px;
-/*    border: 1px solid LightGrey;
-   padding: 4px; */
+   margin: 9px;
    }
 summary {margin-top: 3px;
    }
@@ -123,15 +121,17 @@ ol {margin-top: 3px;
 
 <h1>Portfolio</h1>
 
+<!--
 <h2>Student Performance in Ethics Course</h2>
 
 _24 July 2023 – (Ongoing)_
 
 ---
+-->
 
 <h2><strong>LAPD</strong>: Service Call Intelligence Dashboard</h2>
 
-_27 September to 6 October 2023_
+<em>27 September to 6 October 2023</em>
 
 Policing resources are scarce, and deploying assets without intelligence can put law enforcement officers and the public at risk. Awareness of policing needs is crucial for public safety and effective law enforcement. These interactive dashboards provide critical location and time-based information enable decisionmakers to allocate resources with precision.
 
@@ -145,24 +145,24 @@ See the **Python code** for data preparation **[here](https://github.com/DStrix6
 
 <h2><strong>Salifort Motors</strong>: Customer Churn</h2>
 
-_2-13 September 2023_
+<em>2-13 September 2023</em>
 
 ---
 
 <h2><strong>Waze</strong>: User Churn Project</h2>
 
-_9 June to 1 September 2023_
+<em>9 June to 1 September 2023</em>
 
 Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map.
 Typically, high user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help prevent churn, improve user retention, and grow Waze’s business. The questions answered in this project were Who are the users most likely to churn? Why do users churn? and, When do users churn?
 
-This was a three-stage project, in which I was involved after the first stage. See the **Python code** for these stages **[here](https://github.com/DStrix66/waze-user-churn.git)**.
+This was a three-stage project, in which I was involved after the first stage. See the <strong>Python code</strong> for these stages **[here](https://github.com/DStrix66/waze-user-churn.git)**.
 
 <details>
-   <summary><strong>Project Outline</strong></summary>
+   <summary><strong>PROJECT OUTLINE</strong></summary>
    
    <details>
-      <summary><strong>Stage 1: Project proposal</strong> (not involved)</summary>
+      <summary><strong><em>Stage 1: Project proposal</em></strong> (not involved)</summary>
 
 <ol type="1">
    <li>Data was imported and explored for useful user churn information</li>
@@ -171,7 +171,7 @@ This was a three-stage project, in which I was involved after the first stage. S
    </details>
    
    <details>
-      <summary><strong>Stage 2: EDA</strong> (9-12 June 2023)</summary>
+      <summary><strong><em>Stage 2: EDA</em></strong> (9-12 June 2023)</summary>
 
 <ol type="1">
    <li>Churn rate is highest for users who didn’t drive using the app much in the last month</li>
@@ -181,7 +181,7 @@ This was a three-stage project, in which I was involved after the first stage. S
    </details>
 
 <details>
-   <summary><strong>Stage 3: Two-sample hypothesis test</strong> (24-28 June 2023)</summary>
+   <summary><strong><em>Stage 3: Two-sample hypothesis test</em></strong> (24-28 June 2023)</summary>
 
 <ol type="1">
    <li>Calculations show that iPhone users have a higher average use of the app compared to Android users</li>
@@ -191,7 +191,7 @@ This was a three-stage project, in which I was involved after the first stage. S
 </details>
 
 <details>
-   <summary><strong>Stage 4:Logistic regression analysis</strong> (17-20 July 2023)</summary>
+   <summary><strong><em>Stage 4:Logistic regression analysis</em></strong> (17-20 July 2023)</summary>
 
 <ol type="1">
    <li>Ran a binomial logistic regression with slightly better than benchmark precision but very low recall</li>
@@ -200,7 +200,7 @@ This was a three-stage project, in which I was involved after the first stage. S
 </details>
 
 <details>
-   <summary><strong>Stage 5: Predictive classification models</strong> (28 August to 1 September 2023)</summary>
+   <summary><strong><em>Stage 5: Predictive classification models</em></strong> (28 August to 1 September 2023)</summary>
 
 <ol type="1">
    <li>Features of interest were extracted, and a random forest model and a GBM model on predicting user churn were developed and performances compared</li>
@@ -212,7 +212,7 @@ This was a three-stage project, in which I was involved after the first stage. S
 </details>
 
 <details>
-<summary><strong>Findings</strong></summary>
+<summary><strong>FINDINGS</strong></summary>
 
 It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.
 
@@ -226,7 +226,7 @@ It was established that the data is insufficient for reliably predicting user ch
 
 <h2><strong>Workplace Absenteeism</strong></h2>
 
-_24 April – 3 May 2023_
+<em>24 April – 3 May 2023</em>
 
 Employee absenteeism can have a significant impact on a company's productivity, operational efficiency, and overall performance. By conducting a comprehensive analysis and developing a predictive model, this project provides support to Human Resources decision-making. The project provides valuable insights into employee absenteeism patterns and delivers actionable recommendations for businesses to optimise workforce management, enhance productivity, and improve employee satisfaction.
 
@@ -244,7 +244,7 @@ Employee absenteeism can have a significant impact on a company's productivity, 
 </ul>
 </details>
 
-See the **Python code** **[here](www.link.com)**.
+See the <strong>Python code</strong> <strong>[here](www.link.com)</strong>.
 
 ![absenteeismdashboard](/portfolio_images/absenteeism.png)
 
