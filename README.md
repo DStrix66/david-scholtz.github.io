@@ -137,9 +137,9 @@ Policing resources are scarce, and deploying assets without intelligence can put
 
 See the <strong>Python code</strong> for data preparation <strong><a href="https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb" target="_blank">here</a></strong> and the <strong>interactive dashboard on Tableau Public</strong> <strong><a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank">here</a></strong>.
 
-<img src="portfolio_images/lapd1.png" alt="lapd_dashboard1"> <!-- style="width:128px;height:128px;" -->
+<a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank"> <img src="portfolio_images/lapd1.png" alt="lapd_dashboard1"> </a>
 
-<img src="portfolio_images/lapd2.png" alt="lapd_dashboard2"> <!-- style="width:128px;height:128px;" -->
+<a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank"> <img src="portfolio_images/lapd2.png" alt="lapd_dashboard2"> </a>
 
 ---
 
