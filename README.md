@@ -80,7 +80,7 @@ ol {margin-top: 3px;
 
 <details>
   <summary>
-    <strong>KPMG AU Data Analytics Job Simulation on Forage</strong><br/>KPMB | Sep 2023
+    <strong>KPMG AU Data Analytics Virtual Internship on Forage</strong><br/>KPMG AU | Sep 2023
   </summary>
 
    <ul>
@@ -137,9 +137,9 @@ Policing resources are scarce, and deploying assets without intelligence can put
 
 See the <strong>Python code</strong> for data preparation <strong><a href="https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb" target="_blank">here</a></strong> and the <strong>interactive dashboard on Tableau Public</strong> <strong><a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank">here</a></strong>.
 
-<img src="/portfolio_images/lapd1.png" alt="lapd_dashboard1"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/lapd1.png" alt="lapd_dashboard1"> <!-- style="width:128px;height:128px;" -->
 
-<img src="/portfolio_images/lapd2.png" alt="lapd_dashboard2"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/lapd2.png" alt="lapd_dashboard2"> <!-- style="width:128px;height:128px;" -->
 
 ---
 
@@ -219,9 +219,9 @@ It was established that the data is insufficient for reliably predicting user ch
 
 </details>
 
-<img src="/portfolio_images/waze_gbm_cm.png" alt="waze_confusionmatrix"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/waze_gbm_cm.png" alt="waze_confusionmatrix"> <!-- style="width:128px;height:128px;" -->
 
-<img src="/portfolio_images/waze_gbm_feature_importance.png" alt="waze_featureimportance"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/waze_gbm_feature_importance.png" alt="waze_featureimportance"> <!-- style="width:128px;height:128px;" -->
 
 ---
 
@@ -247,6 +247,6 @@ Employee absenteeism can have a significant impact on a company's productivity, 
 
 See the <strong>Python code</strong> <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.
 
-<img src="/portfolio_images/absenteeism.png" alt="absenteeismdashboard"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/absenteeism.png" alt="absenteeismdashboard"> <!-- style="width:128px;height:128px;" -->
 
 ---
