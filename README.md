@@ -92,11 +92,19 @@ ol {margin-top: 3px;
 
 <details>
   <summary>
-    <strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2023 to present
+    <strong>FTC Lecturer in Philosophy</strong><br/>Various Universities | Jul 2013 to present
    </summary>
 
   <ul>
-    <li>I taught stuff.</li>
+     <li>10 years of experience teaching more than 19 modules in Ethics and Philosphy at:</li>
+     <ul>
+        <li>Biko Centre for Bioethics (Wits Uni.)</li>
+        <li>University of Johannesburg</li>
+        <li>University of Pretoria</li>
+        <li>University of Zululand</li>
+     </ul>
+     <li>Achieved over 80% success rate for all but two modules by leveraging blended learning techniques, developing tutor capacity, and using exciting experiemental and collaborative teaching techniques.</li>
+     <li>When taking over low-performing modules in 2014 and 2019, I increased success rates by <strong>29 percentage points</strong> (49% to 78%) and <strong>11 percentage points</strong> (73% to 84%) respectively by transforming syllabuses to avoid previous years' pitfalls and to open-mindedly address students' contextual needs.</li>
   </ul>
 </details>
 
