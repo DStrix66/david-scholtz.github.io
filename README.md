@@ -3,12 +3,10 @@ h1 {margin-top: 15px;
    }
 h2 {margin-top: 13px;
    }
-h4 {margin-top: 6px;
-   }
 details details {
-   margin: 4px;
-   border: 1px solid LightGrey;
-   padding: 10px;
+   margin: 6px;
+/*    border: 1px solid LightGrey;
+   padding: 4px; */
    }
 summary {margin-top: 3px;
    }
@@ -153,7 +151,7 @@ This was a three-stage project, in which I was involved after the first stage. S
    <summary><strong>Project Outline</strong></summary>
    
    <details>
-      <summary><h4><strong>Stage 1: Project proposal</strong> (not involved)</h4></summary>
+      <summary><strong>Stage 1: Project proposal</strong> (not involved)</summary>
 
 <ol type="1">
    <li>Data was imported and explored for useful user churn information</li>
@@ -162,7 +160,7 @@ This was a three-stage project, in which I was involved after the first stage. S
    </details>
    
    <details>
-      <summary><h4><strong>Stage 2: EDA</strong> (9-12 June 2023)</h4></summary>
+      <summary><strong>Stage 2: EDA</strong> (9-12 June 2023)</summary>
 
 <ol type="1">
    <li>Churn rate is highest for users who didn’t drive using the app much in the last month</li>
@@ -171,28 +169,34 @@ This was a three-stage project, in which I was involved after the first stage. S
 </ol>
    </details>
 
-<h4><strong>Stage 3: Two-sample hypothesis test</strong> (24-28 June 2023)</h4>
+<details>
+   <summary><strong>Stage 3: Two-sample hypothesis test</strong> (24-28 June 2023)</summary>
 
 <ol type="1">
    <li>Calculations show that iPhone users have a higher average use of the app compared to Android users</li>
    <li>However, this difference is not statistically significant</li>
    <li>Key conclusion: More marketing-relevant data is needed for statistically examining churn by device use and other variables.</li>
 </ol>
+</details>
 
-<h4><strong>Stage 4:Logistic regression analysis</strong> (17-20 July 2023)</h4>
+<details>
+   <summary><strong>Stage 4:Logistic regression analysis</strong> (17-20 July 2023)</summary>
 
 <ol type="1">
    <li>Ran a binomial logistic regression with slightly better than benchmark precision but very low recall</li>
    <li>Contrary to what was expected from EDA findings, the amount of driving was the second-least-important variable for predicting churn</li>
 </ol>
+</details>
 
-<h4><strong>Stage 5: Predictive classification models</strong> (28 August to 1 September 2023)</h4>
+<details>
+   <summary><strong>Stage 5: Predictive classification models</strong> (28 August to 1 September 2023)</summary>
 
 <ol type="1">
    <li>Features of interest were extracted, and a random forest model and a GBM model on predicting user churn were developed and performances compared</li>
    <li>The GBM outperformed the random forest model, and it had similar levels of precision and accuracy to the logistic regression, with a much better (though still unsatisfactory) recall score</li>
    <li>The models confirmed the insufficiency of the data and the need for driver-level data collection (e.g., drive times and geographic information) and user interaction with the app (e.g., input a road hazard).</li>
 </ol>
+</details>
 
 </details>
 
