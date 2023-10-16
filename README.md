@@ -135,11 +135,11 @@ _24 July 2023 – (Ongoing)_
 
 Policing resources are scarce, and deploying assets without intelligence can put law enforcement officers and the public at risk. Awareness of policing needs is crucial for public safety and effective law enforcement. These interactive dashboards provide critical location and time-based information enable decisionmakers to allocate resources with precision.
 
-See the **Python code** for data preparation **[here](https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb)** and the **interactive dashboard on Tableau Public** **[here](https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1)**.
+See the <strong>Python code</strong> for data preparation <strong><a href="https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb" target="_blank">here</a></strong> and the <strong>interactive dashboard on Tableau Public</strong> <strong><a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank">here</a></strong>.
 
-![lapd_dashboard1](/portfolio_images/lapd1.png)
+<img src="/portfolio_images/lapd1.png" alt="lapd_dashboard1"> <!-- style="width:128px;height:128px;" -->
 
-![lapd_dashboard2](/portfolio_images/lapd2.png)
+<img src="/portfolio_images/lapd2.png" alt="lapd_dashboard2"> <!-- style="width:128px;height:128px;" -->
 
 ---
 
@@ -153,10 +153,11 @@ See the **Python code** for data preparation **[here](https://github.com/DStrix6
 
 <em>9 June to 1 September 2023</em>
 
-Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map.
-Typically, high user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help prevent churn, improve user retention, and grow Waze’s business. The questions answered in this project were Who are the users most likely to churn? Why do users churn? and, When do users churn?
+Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map. High app user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help improve user retention, prevent churn, and grow Waze’s business.
 
-This was a three-stage project, in which I was involved after the first stage. See the <strong>Python code</strong> for these stages **[here](https://github.com/DStrix66/waze-user-churn.git)**.
+This was a five-stage project, in which I was involved from the second stage.
+
+See my <strong>Python code</strong> for the latter stages <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.
 
 <details>
    <summary><strong>PROJECT OUTLINE</strong></summary>
@@ -218,9 +219,9 @@ It was established that the data is insufficient for reliably predicting user ch
 
 </details>
 
-![waze_confusionmatrix](/portfolio_images/waze_gbm_cm.png)
+<img src="/portfolio_images/waze_gbm_cm.png" alt="waze_confusionmatrix"> <!-- style="width:128px;height:128px;" -->
 
-![waze_featureimportance](/portfolio_images/waze_gbm_feature_importance.png)
+<img src="/portfolio_images/waze_gbm_feature_importance.png" alt="waze_featureimportance"> <!-- style="width:128px;height:128px;" -->
 
 ---
 
@@ -244,8 +245,8 @@ Employee absenteeism can have a significant impact on a company's productivity, 
 </ul>
 </details>
 
-See the <strong>Python code</strong> <strong>[here](www.link.com)</strong>.
+See the <strong>Python code</strong> <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.
 
-![absenteeismdashboard](/portfolio_images/absenteeism.png)
+<img src="/portfolio_images/absenteeism.png" alt="absenteeismdashboard"> <!-- style="width:128px;height:128px;" -->
 
 ---
