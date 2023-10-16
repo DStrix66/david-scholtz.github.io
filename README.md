@@ -15,9 +15,9 @@ summary {
     margin-top: 3px;
 /*     margin-bottom: 3px; */
 }
-/* ul {margin-top: 6px: */
+ul {margin-top: 6px;
 /*     margin-bottom: 3px; */
-/*     } */
+    }
 </style>
 
 <details>
