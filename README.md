@@ -143,7 +143,7 @@ See the <strong>Python code</strong> for data preparation <strong><a href="https
 
 ---
 
-<h2><strong>Salifort Motors</strong>: Customer Churn</h2>
+<h2><strong>Salifort Motors</strong>: Employee Retention</h2>
 
 <em>2-13 September 2023</em>
 
