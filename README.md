@@ -149,9 +149,18 @@ See the <strong>Python code</strong> for data preparation <strong><a href="https
 
 See the <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>
 
-<img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree">
+<!-- <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree"> -->
 
-<img src="portfolio_images/salifort_turnover_satisfaction.png" alt="salifort_turnover_satisfaction">
+<a href="portfolio_images/salifort_decision_tree.svg" target="_blank">
+  <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree">
+</a>
+
+
+<!-- <img src="portfolio_images/salifort_turnover_satisfaction.png" alt="salifort_turnover_satisfaction">  -->
+
+<a href="portfolio_images/salifort_turnover_satisfaction.png" target="salifort_turnover_satisfaction">
+  <img src="portfolio_images/salifort_turnover_satisfaction.png" alt="salifort_turnover_satisfaction">
+</a>
 
 ---
 
