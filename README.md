@@ -225,7 +225,7 @@ It was established that the data is insufficient for reliably predicting user ch
 
 </details>
 
-<img src="portfolio_images/waze_gbm_cm.png" alt="waze_confusionmatrix"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/waze_logit_activitydays.png" alt="waze_confusionmatrix"> <!-- style="width:128px;height:128px;" -->
 
 <img src="portfolio_images/waze_gbm_feature_importance.png" alt="waze_featureimportance"> <!-- style="width:128px;height:128px;" -->
 
