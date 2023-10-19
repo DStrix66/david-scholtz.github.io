@@ -137,9 +137,13 @@ Policing resources are scarce, and deploying assets without intelligence can put
 
 See the <strong>Python code</strong> for data preparation <strong><a href="https://github.com/DStrix66/lapd-dashboard/blob/main/lapd_eda.ipynb" target="_blank">here</a></strong> and the <strong>interactive dashboard on Tableau Public</strong> <strong><a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank">here</a></strong>.
 
-<a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank"> <img src="portfolio_images/lapd1.png" alt="lapd_dashboard1"> </a>
+<a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank">
+  <img src="portfolio_images/lapd1.png" alt="lapd_dashboard1">
+</a>
 
-<a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank"> <img src="portfolio_images/lapd2.png" alt="lapd_dashboard2"> </a>
+<a href="https://public.tableau.com/app/profile/david.scholtz/viz/LAPDServiceCalls2019-2023fin/Story1" target="_blank">
+  <img src="portfolio_images/lapd2.png" alt="lapd_dashboard2">
+</a>
 
 ---
 
@@ -151,14 +155,14 @@ See the <strong>Python code</strong> on constructing logistic regression, naive 
 
 <!-- <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree"> -->
 
-<a href="portfolio_images/salifort_decision_tree.svg" target="_blank">
+<a href="http://davidscholtz.co.za/portfolio_images/salifort_decision_tree.svg" target="_blank">
   <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree">
 </a>
 
 
 <!-- <img src="portfolio_images/salifort_turnover_satisfaction.png" alt="salifort_turnover_satisfaction">  -->
 
-<a href="portfolio_images/salifort_turnover_satisfaction.png" target="salifort_turnover_satisfaction">
+<a href="http://davidscholtz.co.za/portfolio_images/salifort_turnover_satisfaction.png" target="_blank">
   <img src="portfolio_images/salifort_turnover_satisfaction.png" alt="salifort_turnover_satisfaction">
 </a>
 
@@ -234,9 +238,9 @@ It was established that the data is insufficient for reliably predicting user ch
 
 </details>
 
-<img src="portfolio_images/waze_logit_activitydays.png" alt="waze_confusionmatrix"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/waze_logit_activitydays.png" alt="waze_logit_activitydays">
 
-<img src="portfolio_images/waze_gbm_feature_importance2.png" alt="waze_featureimportance"> <!-- style="width:128px;height:128px;" -->
+<img src="portfolio_images/waze_gbm_feature_importance2.png" alt="waze_featureimportance">
 
 ---
 
@@ -262,6 +266,8 @@ Employee absenteeism can have a significant impact on a company's productivity, 
 
 See the <strong>Python code</strong> <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.
 
-<img src="portfolio_images/absenteeism.png" alt="absenteeismdashboard"> <!-- style="width:128px;height:128px;" -->
+<a href="http://davidscholtz.co.za/portfolio_images/absenteeism.png" target="_blank">
+  <img src="portfolio_images/absenteeism.png" alt="absenteeismdashboard">
+</a>
 
 ---
