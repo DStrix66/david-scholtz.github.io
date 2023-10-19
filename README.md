@@ -151,7 +151,7 @@ See the <strong>Python code</strong> for data preparation <strong><a href="https
 
 <em>2-13 September 2023</em>
 
-See the <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>
+See the <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>.
 
 <!-- <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree"> -->
 
