@@ -171,7 +171,8 @@ These factors (satisfaction, time at the company, and workload) do not have simp
 Additional findings useful to the goal that were not part of the initial project plan were also identified, mostly with regards to employee management. For instance, there doesn’t appear to be a clear process for promoting high-performing employees, or for developing capacity in struggling employees.
 </details>
 
-See the <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>.
+</br>
+See my <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>.</br></br>
 
 <!-- <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree"> -->
 
@@ -195,8 +196,6 @@ See the <strong>Python code</strong> on constructing logistic regression, naive 
 Waze is a community driven navigation app that helps millions of users get to where they’re going through real-time road alerts and an up-to-the-moment map. High app user retention rates indicate satisfied users who repeatedly use the Waze app over time. This project develops a churn prediction model to help improve user retention, prevent churn, and grow Waze’s business.
 
 This was a five-stage project, in which I was involved from the second stage.
-
-See my <strong>Python code</strong> for the latter stages <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.
 
 <details>
    <summary><strong>PROJECT OUTLINE</strong></summary>
@@ -258,6 +257,8 @@ It was established that the data is insufficient for reliably predicting user ch
 
 </details>
 
+</br>See my <strong>Python code</strong> for stages 2-5 <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.</br></br>
+
 <img src="portfolio_images/waze_logit_activitydays.png" alt="waze_logit_activitydays">
 
 <img src="portfolio_images/waze_gbm_feature_importance2.png" alt="waze_featureimportance">
@@ -284,7 +285,7 @@ Employee absenteeism can have a significant impact on a company's productivity, 
 </ul>
 </details>
 
-See the <strong>Python code</strong> <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.
+</br>See my <strong>Python code</strong> <strong><a href="https://github.com/DStrix66/waze-user-churn.git" target="_blank">here</a></strong>.</br>
 
 <a href="http://davidscholtz.co.za/portfolio_images/absenteeism.png" target="_blank">
   <img src="portfolio_images/absenteeism.png" alt="absenteeismdashboard">
