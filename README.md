@@ -28,8 +28,9 @@ ol {margin-top: 3px;
    </summary>
 
    <ul>
-      <li>This is what I did in the course.</li>
-      <li>And then I did this.</li>
+      <li>Passed seven courses on advanced data analytics tools and techniques.</li>
+      <li>Completed training and practical projects on data analytics workflow, EDA, statistical tests (A/B testing, ANOVA, etc.), and machine learning algorithms (regression, clustering, decision-tree models).</li>
+      <li>Primary tools used were Python (Matplotlib, Pandas, Scikit-learn, Seaborn, XGBoost) and Tableau.</li>
    </ul>
 </details>
 
