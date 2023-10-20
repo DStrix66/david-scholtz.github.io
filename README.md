@@ -105,7 +105,7 @@ ol {margin-top: 3px;
         <li>University of Pretoria</li>
         <li>University of Zululand</li>
      </ul>
-     <li>Achieved over 80% success rate for all but two modules by leveraging blended learning techniques, developing tutor capacity, and using exciting experiemental and collaborative teaching techniques.</li>
+     <li>Achieved over 80% success rate for all but two modules by leveraging blended learning techniques, developing tutor capacity, and using exciting experimental and collaborative teaching techniques.</li>
      <li>When taking over low-performing modules in 2014 and 2019, I increased success rates by <strong>29 percentage points</strong> (49% to 78%) and <strong>11 percentage points</strong> (73% to 84%) respectively by transforming syllabuses to avoid previous years' pitfalls and to open-mindedly address students' contextual needs.</li>
   </ul>
 </details>
