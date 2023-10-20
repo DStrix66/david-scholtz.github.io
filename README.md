@@ -98,7 +98,7 @@ ol {margin-top: 3px;
    </summary>
 
   <ul>
-     <li>10 years of experience teaching more than 19 modules in Ethics and Philosphy at:</li>
+     <li>10 years of experience teaching more than 19 modules in Ethics and Philosophy at:</li>
      <ul>
         <li>Biko Centre for Bioethics (Wits Uni.)</li>
         <li>University of Johannesburg</li>
