@@ -24,7 +24,7 @@ ol {margin-top: 3px;
 
 <details>
    <summary>
-      <strong>Google Advanced Data Analytics Professional Certificate</strong> <br/>Coursera | 13 September 2023
+      <strong>Google Advanced Data Analytics Professional Certificate</strong> <br/>Coursera | Sep 2023
    </summary>
 
    <ul>
@@ -36,7 +36,7 @@ ol {margin-top: 3px;
 
 <details>
    <summary>
-      <strong>PhD, Philosophy</strong><br/>Uni. of Johannesburg | April 2021
+      <strong>PhD, Philosophy</strong><br/>University of Johannesburg | Apr 2021
    </summary>
 
    <ul>
@@ -47,7 +47,7 @@ ol {margin-top: 3px;
 
 <details>
   <summary>
-    <strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE
+    <strong>MA by dissertation, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | Sep 2016
   </summary>
 
   <ul>
@@ -58,7 +58,7 @@ ol {margin-top: 3px;
 
 <details>
    <summary>
-     <strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>Uni. of Johannesburg | DATE
+     <strong>BA Honours, Philosophy <em>cum laude</em></strong><br/>University of Johannesburg | Feb 2013
    </summary>
 
    <ul>
@@ -69,11 +69,12 @@ ol {margin-top: 3px;
 
 <details>
   <summary>
-    <strong>BA Politics, Philosophy, and Economics</strong><br/>Uni. of Johannesburg | DATE
+    <strong>BA Politics, Philosophy, and Economics</strong><br/>University of Johannesburg | Apr 2012
   </summary>
 
   <ul>
-    <li>This is what I did in my Bachelors.</li>
+    <li>Completed an intensive quantitative and qualitative degree programme, developing foundational skills in conceptual analysis, economic theory, and complex problem-solving.</li>
+    <li>Achieved averages of 78%, 82%, and 71% for Major subjects Politics, Philosophy, and Economics respectively.</li>
   </ul>
 </details>
 
@@ -112,11 +113,12 @@ ol {margin-top: 3px;
 
 <details>
   <summary>
-    <strong>Doctoral Researcher</strong><br/>Uni. of Johannesburg | Feb 2018 to Mar 2021
+    <strong>Doctoral Researcher</strong><br/>University of Johannesburg | Feb 2018 to Mar 2021
   </summary>
 
    <ul>
-      <li>I researched stuff.</li>
+      <li>Full-time doctoral candidate at UJ Philosophy, funded by the Global Excellence and Stature scholarship.</li>
+      <li>Organised international conferences, presented research at local and international symposia, and participated in over 30 collaborative research activities.</li>
    </ul>
 </details>
 
