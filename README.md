@@ -160,7 +160,7 @@ Salifort Motors suffers from high employee turnover, which costs the company res
 <details>
    <summary><strong>PROJECT SUMMARY</strong></summary>
    
-An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload. 
+An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload.<br>
 </details>
 
 <details>
@@ -172,7 +172,7 @@ Additional findings useful to the goal that were not part of the initial project
 </details>
 
 <br>
-See my <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>.<br><br>
+See my <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>.<br>
 
 <!-- <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree"> -->
 
@@ -247,7 +247,7 @@ This was a five-stage project, in which I was involved from the second stage.
    <li>The models confirmed the insufficiency of the data and the need for driver-level data collection (e.g., drive times and geographic information) and user interaction with the app (e.g., input a road hazard).</li>
 </ol>
 </details>
-
+<br>
 </details>
 
 <details>
