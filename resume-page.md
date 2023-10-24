@@ -1,5 +1,9 @@
-layout: page
-title: "resume"
-permalink: /resume
+---
+layout: default
+---
 
-Here shall the resumé be found, and here is shall remain.
+## Welcome to another page
+
+_yay_
+
+[back](./)
