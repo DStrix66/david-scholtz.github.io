@@ -16,7 +16,7 @@ ol {margin-top: 3px;
    }
 
 .project-detail {
-   margin-bottom: 20px;
+   margin-bottom: 12px;
 }
 </style>
 
@@ -66,7 +66,7 @@ Salifort Motors suffers from high employee turnover, which costs the company res
 An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload.
 </details>
 
-<details>
+<details class="project-detail">
    <summary><strong>FINDINGS</strong></summary>
 
 These factors (satisfaction, time at the company, and workload) do not have simple linear relationships to turnover. For example, employees within certain high and low satisfaction intervals were both more likely to leave. Thus, further investigation is required to determine the nature of the impact these factors have on employees leaving. This would be informative for developing a nuanced and effective employee retention strategy.
@@ -99,7 +99,7 @@ Waze is a community driven navigation app that helps millions of users get to wh
 
 This was a five-stage project, in which I was involved from the second stage.
 
-<details>
+<details class="project-detail">
    <summary><strong>PROJECT OUTLINE</strong></summary>
    
    <details>
@@ -152,7 +152,7 @@ This was a five-stage project, in which I was involved from the second stage.
 
 </details>
 
-<details>
+<details class="project-detail">
 <summary><strong>FINDINGS</strong></summary>
 
 It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.
@@ -173,7 +173,7 @@ See my <strong>Python code</strong> for stages 2-5 <strong><a href="https://gith
 
 Employee absenteeism can have a significant impact on a company's productivity, operational efficiency, and overall performance. By conducting a comprehensive analysis and developing a predictive model, this project provides support to Human Resources decision-making. The project provides valuable insights into employee absenteeism patterns and delivers actionable recommendations for businesses to optimise workforce management, enhance productivity, and improve employee satisfaction.
 
-<details>
+<details class="project-detail">
 <summary><strong>Key Findings and Recommendations</strong></summary>
 
 <ul>
