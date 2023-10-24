@@ -21,7 +21,7 @@ ol {margin-top: 3px;
 </style>
 
 <h2>See My <strong><a href="https://davidscholtz.co.za/resume.html">Resumé</a></strong></h2>
-
+<br><br>
 <h1>Portfolio</h1>
 
 <!--
