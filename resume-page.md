@@ -126,4 +126,6 @@ ol {margin-top: 3px;
    </ul>
 </details>
 
+<strong><a href="./">Back to Portfolio</a></strong>
+
 [Back to <strong>Portfolio</strong>](./)
