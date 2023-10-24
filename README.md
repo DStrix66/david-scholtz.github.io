@@ -16,7 +16,7 @@ ol {margin-top: 3px;
    }
 </style>
 
-<strong><a href="./resume-page.md">Link to my resumé</a></strong>
+<strong><a href="https://davidscholtz.co.za/resume-page.md">Link to my resumé</a></strong>
 
 <h1>About Me</h1>
 
@@ -174,6 +174,7 @@ An EDA was conducted to clean and prepare the data set for predictive modelling.
 These factors (satisfaction, time at the company, and workload) do not have simple linear relationships to turnover. For example, employees within certain high and low satisfaction intervals were both more likely to leave. Thus, further investigation is required to determine the nature of the impact these factors have on employees leaving. This would be informative for developing a nuanced and effective employee retention strategy.
 
 Additional findings useful to the goal that were not part of the initial project plan were also identified, mostly with regards to employee management. For instance, there doesn’t appear to be a clear process for promoting high-performing employees, or for developing capacity in struggling employees.
+
 </details>
 
 See my <strong>Python code</strong> on constructing logistic regression, naive Bayes, decision tree, and GBM models <strong><a href="https://github.com/DStrix66/salifort-motors-employee-retention.git" target="_blank">here</a></strong>.
@@ -183,7 +184,6 @@ See my <strong>Python code</strong> on constructing logistic regression, naive B
 <a href="http://davidscholtz.co.za/portfolio_images/salifort_decision_tree.svg" target="_blank">
   <img src="portfolio_images/salifort_decision_tree.svg" alt="salifort_decision_tree">
 </a>
-
 
 <!-- <img src="portfolio_images/salifort_turnover_satisfaction.png" alt="salifort_turnover_satisfaction">  -->
 
