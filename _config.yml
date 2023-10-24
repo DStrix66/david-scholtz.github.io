@@ -7,17 +7,14 @@ description: >
   <br>
   <strong>Email:</strong> davidianscholtz [at] gmail.com 
   <br>
-
   <a href="https://www.linkedin.com/in/davidianscholtz/" style="display: inline-block;">
-    <img src="./portfolio_images/github-mark.svg" style="width: 25px; height: auto;" />
-    <strong>LinkedIn</strong>
-  </a> 
-  
-  <br>
-  
-  <a href="https://github.com/DStrix66/" style="display: inline-block;">
     <img src="./portfolio_images/LinkedIn_icon.svg" style="width: 25px; height: auto;" />
-    <strong>GitHub</strong>
+    LinkedIn
+  </a> 
+  <br>
+  <a href="https://github.com/DStrix66/" style="display: inline-block;">
+    <img src="./portfolio_images/github-mark.svg" style="width: 25px; height: auto;" />
+    GitHub
   </a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
