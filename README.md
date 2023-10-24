@@ -21,7 +21,7 @@ ol {margin-top: 3px;
 </style>
 
 <h2>See My <strong><a href="https://davidscholtz.co.za/resume.html">Resumé</a></strong></h2>
-<br><br>
+<br class="project-detail">
 <h1>Portfolio</h1>
 
 <!--
@@ -63,15 +63,15 @@ Salifort Motors suffers from high employee turnover, which costs the company res
 <details class="project-detail">
    <summary><strong>PROJECT SUMMARY</strong></summary>
    
-An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload.
+<p>An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload.</p>
 </details>
 
 <details class="project-detail">
    <summary><strong>FINDINGS</strong></summary>
 
-These factors (satisfaction, time at the company, and workload) do not have simple linear relationships to turnover. For example, employees within certain high and low satisfaction intervals were both more likely to leave. Thus, further investigation is required to determine the nature of the impact these factors have on employees leaving. This would be informative for developing a nuanced and effective employee retention strategy.
+<p>These factors (satisfaction, time at the company, and workload) do not have simple linear relationships to turnover. For example, employees within certain high and low satisfaction intervals were both more likely to leave. Thus, further investigation is required to determine the nature of the impact these factors have on employees leaving. This would be informative for developing a nuanced and effective employee retention strategy.</p>
 
-Additional findings useful to the goal that were not part of the initial project plan were also identified, mostly with regards to employee management. For instance, there doesn’t appear to be a clear process for promoting high-performing employees, or for developing capacity in struggling employees.
+<p>Additional findings useful to the goal that were not part of the initial project plan were also identified, mostly with regards to employee management. For instance, there doesn’t appear to be a clear process for promoting high-performing employees, or for developing capacity in struggling employees.</p>
 
 </details>
 
@@ -155,7 +155,7 @@ This was a five-stage project, in which I was involved from the second stage.
 <details class="project-detail">
 <summary><strong>FINDINGS</strong></summary>
 
-It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.
+<p>It was established that the data is insufficient for reliably predicting user churn and that further granular data is needed on app usage and geography. Given the data, it could be determined that users who are professional drivers and who use the app more in a month are the biggest predictors of whether a user will churn or be retained.</p>
 
 </details>
 
