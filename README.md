@@ -14,6 +14,10 @@ ul {margin-top: 3px;
 ol {margin-top: 3px;
     margin-bottom: 3px;
    }
+
+.project-detail {
+   margin-bottom: 20px;
+}
 </style>
 
 <strong><a href="https://davidscholtz.co.za/resume.html">Link to my resumé</a></strong>
@@ -162,7 +166,7 @@ Salifort Motors suffers from high employee turnover, which costs the company res
 
 <strong>Result</strong>: The goals were successfully achieved: (i) Key factors affecting employees leaving the company are satisfaction level, time at the company, and workload, and (ii) a model was developed with a 93% success rate in identifying employees at risk of leaving the company. Additional insights useful for developing a retention strategy were also extracted.
 
-<details>
+<details class="project-detail">
    <summary><strong>PROJECT SUMMARY</strong></summary>
    
 An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload.
