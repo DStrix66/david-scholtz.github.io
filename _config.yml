@@ -1,7 +1,6 @@
-title: "David Scholtz"
+title: "David Scholtz, Data Analyst"
 logo: /portfolio_images/profile-round.png
 description: davidianscholtz[at]gmail.com
 remote_theme: pages-themes/minimal@v0.2.0
-show_downloads: true
 plugins:
 - jekyll-remote-theme
