@@ -16,7 +16,7 @@ ol {margin-top: 3px;
    }
 </style>
 
-<strong><a href="https://davidscholtz.co.za/resume-page.md">Link to my resumé</a></strong>
+<strong><a href="https://davidscholtz.co.za/resume.html">Link to my resumé</a></strong>
 
 <h1>About Me</h1>
 
