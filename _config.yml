@@ -1,7 +1,7 @@
 title: "David Scholtz"
 logo: /portfolio_images/profile-round.png
-description: >
-  Welcome to my website and portfolio. Feel free to browse through my projects, view my resumé, and get in touch to discuss potential collaborations or opportunities. I'm excited to share my journey with you!
+description: davidianscholtz[at]gmail.com
 remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: true
 plugins:
 - jekyll-remote-theme
