@@ -5,13 +5,10 @@ description: >
   <br>
   <strong>Contact me</strong>
   <br>
-
-<a href="mailto:davidianscholtz@gmail.com" style="display: inline-block;">
-   <img src="./portfolio_images/Gmail_icon_(2020).svg" style="width: 25px; height: auto;" />
-   Email
-</a>
-  
-  <strong>Email:</strong> davidianscholtz [at] gmail.com 
+  <a href="mailto:davidianscholtz@gmail.com" style="display: inline-block;">
+    <img src="./portfolio_images/Gmail_icon_(2020).svg" style="width: 25px; height: auto;" />
+    Email
+  </a>  
   <br>
   <a href="https://www.linkedin.com/in/davidianscholtz/" style="display: inline-block;">
     <img src="./portfolio_images/LinkedIn_icon.svg" style="width: 25px; height: auto;" />
