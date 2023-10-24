@@ -9,12 +9,9 @@ description: >
   <br>
   <a href="https://www.linkedin.com/in/davidianscholtz/">LinkedIn</a>
   <br>
-  # <div style="width: 30px">
-  # <a href="https://github.com/DStrix66/"><img src="./portfolio_images/github-mark.png" /></a>
-  # </div>
-  # <div style="width: 25px">
+  <div style="width: 25px">
   <a href="https://github.com/DStrix66/">
-    <img src="./portfolio_images/github-mark.png" style="width: 30px; height: auto;" />
+    <img src="./portfolio_images/github-mark.png" style="width: auto;" />
     GitHub
   </a>
   </div>
