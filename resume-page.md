@@ -20,6 +20,8 @@ ol {margin-top: 3px;
    }
 </style>
 
+<strong><a href="./">Back to Portfolio</a></strong>
+
 <h1>About Me</h1>
 
 <p>I'm a freelance data analyst with experience using statistics, machine learning algorithms, and interactive dashboards to solve business problems. My unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible and actionable for end users. My background in research and lecturing has provided me with foundational skills in critical thinking, stakeholder communication, and complex problem solving.</p>
@@ -126,6 +128,4 @@ ol {margin-top: 3px;
    </ul>
 </details>
 
-<strong><a href="./">Back to Portfolio</a></strong>
-
-[Back to <strong>Portfolio</strong>](./)
+<br><br><strong><a href="./">Back to Portfolio</a></strong>
