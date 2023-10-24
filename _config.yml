@@ -1,13 +1,15 @@
 title: 'David Scholtz'
 logo: /portfolio_images/profile-round.png
 description: >
-  I'm a freelance data analyst with experience using statistics, machine learning algorithms, and interactive dashboards to solve business problems. My unique value consists in my ability to critically understand business needs and creatively apply data analytic solutions that are accessible and actionable for end users. My background in research and lecturing has provided me with foundational skills in critical thinking, stakeholder communication, and complex problem solving. 
-  <br><br>
+  I'm a freelance data analyst with experience using statistics, machine learning algorithms, and interactive dashboards to solve business problems. I have a critical understanding of business needs and the ability to creatively apply data analytic solutions that are accessible and actionable for end users. I'm excited to share my journey in analytics with you! 
+  <br>
   <strong>Email:</strong> davidianscholtz [at] gmail.com 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/davidianscholtz/">LinkedIn</a>
-  <br><br>
-  <a style="width: 25px" href="https://github.com/DStrix66/"><img src="./portfolio_images/github-mark.png" /></a>
+  <br>
+  <div style="width: 25px">
+  <a href="https://github.com/DStrix66/"><img src="./portfolio_images/github-mark.png" /></a>
+  </div>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
