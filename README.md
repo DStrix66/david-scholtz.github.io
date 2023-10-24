@@ -16,7 +16,7 @@ ol {margin-top: 3px;
    }
 </style>
 
-[Link to another page](./resume-page.md)
+<strong><a href="./resume-page.md">Link to my resumé</a></strong>
 
 <h1>About Me</h1>
 
