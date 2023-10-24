@@ -9,16 +9,9 @@ description: >
   <br>
   <a href="https://www.linkedin.com/in/davidianscholtz/">LinkedIn</a>
   <br>
-  <div style="width: 25px">
-  <a href="https://github.com/DStrix66/">
-    <img src="./portfolio_images/github-mark.png" style="width: auto;" />
-    GitHub
-  </a>
-  </div>
-  <br>
   <a href="https://github.com/DStrix66/" style="display: inline-block;">
-    <img src="./portfolio_images/github-mark.png" style="width: 25px; height: auto;" />
-    GitHub
+    <img src="./portfolio_images/github-mark.png" style="width: auto;" />
+    <strong>GitHub</strong>
   </a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
