@@ -24,6 +24,13 @@ ol {margin-top: 3px;
 <br class="project-detail">
 <h1>Portfolio</h1>
 
+<ul>
+   <li><a href="#lapd">LAPD Dashboard</a></li>
+   <li><a href="#salifort">Salifort: Employee Retention</a></li>
+   <li><a href="#waze">Waze: App User Churn</a></li>
+   <li><a href="#absenteeism">Workplace Absenteeism</a></li>
+</ul>
+
 <!--
 <h2>Student Performance in Ethics Course</h2>
 
@@ -32,7 +39,7 @@ _24 July 2023 – (Ongoing)_
 ---
 -->
 
-<h2><strong>LAPD</strong>: Service Call Intelligence Dashboard</h2>
+<h2 id="lapd"><strong>LAPD</strong>: Service Call Intelligence Dashboard</h2>
 
 <em>27 September to 6 October 2023</em>
 
@@ -50,7 +57,7 @@ See my <strong>Python code</strong> for data preparation <strong><a href="https:
 
 ---
 
-<h2><strong>Salifort Motors</strong>: Employee Retention</h2>
+<h2 id="salifort"><strong>Salifort Motors</strong>: Employee Retention</h2>
 
 <em>2-13 September 2023</em>
 
@@ -91,7 +98,7 @@ See my <strong>Python code</strong> on constructing logistic regression, naive B
 
 ---
 
-<h2><strong>Waze</strong>: User Churn Project</h2>
+<h2 id="waze"><strong>Waze</strong>: User Churn Project</h2>
 
 <em>9 June to 1 September 2023</em>
 
@@ -167,7 +174,7 @@ See my <strong>Python code</strong> for stages 2-5 <strong><a href="https://gith
 
 ---
 
-<h2><strong>Workplace Absenteeism</strong></h2>
+<h2 id="absenteeism"><strong>Workplace Absenteeism</strong></h2>
 
 <em>24 April – 3 May 2023</em>
 
