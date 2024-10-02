@@ -1,0 +1,9 @@
+PORTFOLIO & RESUME UPDATE NOTES
+
+Portfolio:
+    * Derivco ETL - Problem was slow manual loading time using PQ & a VM with client having a 1-2 business day delay between receiving cloud cost data and having a report. Solution was Fabric pipeline employing SQL and Python notebooks in Pipeline. Result was automated overnight load of monthly cloud usage data, saving 6-8 consultant hours per month and improving customer insight time to 0 working day delay (overnight pipeline run). 
+    * Kantar legacy server dashboard - Problem: Solution: Develop a PBI dashboard to provide insights at both a high level (division, region, etc.) and granular level down to specific server of legacy server resources and their usage. Result: Enable strategic decomissioning or downscaling of legacy servers in favour of more cost-efficient solutions through transparency provided through the report.
+
+Resume:
+    * Cost model data transformation, load, and recon for NTT (Central Functions) and Kantar (ITFM)
+    * Investec Managed Service: Implemented ETL and cost model enhancements to reduce monthly, quarterly, and ad-hoc calculation run time. Developed documentation for existing systems and processes to support ongoing maintenance and continual improvement of cost model.
